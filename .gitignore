@@ -1,1 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
 
+# Virtual Environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
