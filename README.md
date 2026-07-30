@@ -43,27 +43,6 @@ A Computer Vision project that classifies images as **Cat** or **Dog** using **T
 
 ---
 
-## 📂 Project Structure
-
-```
-Cats-vs-Dogs-Image-Classification/
-│
-├── app/
-│   └── app.py
-│
-├── model/
-│   └── cats_vs_dogs_resnet18.pth
-│
-├── notebook/
-│   └── Cats_vs_Dogs_Classification.ipynb
-│
-├── requirements.txt
-├── README.md
-└── .gitignore
-```
-
----
-
 ## 🚀 Run Locally
 
 ```bash
